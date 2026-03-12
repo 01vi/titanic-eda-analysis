@@ -17,7 +17,7 @@ survival patterns based on gender, passenger class, and age.
 - Seaborn
 
 ## Files
-- `titanic-eda.ipynb` - Main analysis notebook
+- `titanic-eda-survival-analysis.ipynb` - Main analysis notebook
 
 ## Dataset
 Titanic dataset from Kaggle competition
